@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#007fff</color>
+    <color name="colorPrimaryDark">#0072e5</color>
+    <color name="colorAccent">@android:color/holo_green_light</color>
+
+    <color name="md_grey_500">#9E9E9E</color>
+    <color name="md_amber_500">#FFC107</color>
+    
+    <color name="textColor">#333333</color>
+    <color name="subTextColor">#666666</color>
+
+    <color name="bgColor">#f5f7f8</color>
+</resources>

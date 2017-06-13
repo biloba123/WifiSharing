@@ -1,0 +1,112 @@
+<resources>
+    <string name="app_name">WifiSharing</string>
+    <string name="loading">加载...</string>
+    <string name="Error">出错</string>
+    <string name="check">无网络</string>
+    <string name="back">返回</string>
+    <string name="title_wifi">WiFi</string>
+    <string name="title_map">热点地图</string>
+    <string name="title_my">个人</string>
+    <string name="near_wifi">附近的WiFi</string>
+    <string name="sharing_wifi">只看分享WiFi</string>
+    <string name="no_wifi">附近无WiFi，点击打开热点地图</string>
+    <string name="wifi_closed">WiFi未开启</string>
+    <string name="wifi_unconnect">无连接</string>
+    <string name="connecting">正在连接</string>
+    <string name="connect_error">连接出错</string>
+    <string name="edit_password">请输入密码</string>
+    <string name="connect">连接</string>
+    <string name="empty_password">密码为空</string>
+    <string name="ap_closed">热点未开启</string>
+    <string name="ap_info">热点状况</string>
+    <string name="create_ap">个人热点</string>
+    <string name="ap_pass">热点密码</string>
+    <string name="ap_name">热点名称</string>
+    <string name="has_ap_pass">设置密码？</string>
+    <string name="password_not_enough">密码至少8位</string>
+    <string name="wrong">信息不符合规范</string>
+    <string name="create">创建</string>
+    <string name="permission_deny">未获得必要权限，无法使用</string>
+    <string name="close_ap">先关闭热点</string>
+
+    <string name="notifyTitle">提示</string>
+    <string name="notifyMsg">当前应用缺少必要权限。\n\n请点击\"设置\"-\"权限\"-打开所需权限。</string>
+    <string name="setting">设置</string>
+    <string name="cancel">取消</string>
+    <string name="login">登录</string>
+    <string name="tel">手机号</string>
+    <string name="password">密码</string>
+    <string name="forgot_your_password">忘记密码？</string>
+    <string name="register">注册</string>
+    <string name="Username">用户名</string>
+    <string name="next">接下来</string>
+    <string name="wrong_tel">输入正确手机号</string>
+    <string name="empty_pwd">密码为空！</string>
+    <string name="empty_user">输入用户名</string>
+    <string name="no_internet">无网络</string>
+    <string name="register_succ">注册成功！</string>
+    <string name="register_error">注册失败：</string>
+    <string name="login_succ">登录成功</string>
+    <string name="error">出错</string>
+    <string name="registered">该邮箱已被注册</string>
+    <string name="error_info">邮箱或密码错误</string>
+    <string name="unlogin">登录畅销Wifi</string>
+    <string name="wrong_email">输入正确邮箱</string>
+    <string name="mail">邮箱</string>
+    <string name="nick">昵称</string>
+    <string name="pwd_length">密码不得少于6位</string>
+    <string name="sign_in">签到</string>
+    <string name="unsign_in">未签到</string>
+    <string name="signed_in">已签到</string>
+    <string name="change_head">上传新头像</string>
+    <string name="account">账号</string>
+    <string name="account_info">账户信息</string>
+    <string name="reset">修改</string>
+    <string name="info">资料</string>
+    <string name="unset">未设置</string>
+    <string name="sex">性别</string>
+    <string name="logout">退出登录</string>
+    <string name="reset_nick">修改昵称</string>
+    <string name="reset_sex">修改性别</string>
+    <string name="male">男</string>
+    <string name="female">女</string>
+    <string name="reset_pwd">修改密码</string>
+    <string name="current_pwd">原密码</string>
+    <string name="new_pwd">新密码</string>
+    <string name="reset_pwd_succ">密码修改成功</string>
+    <string name="error_pwd">密码错误</string>
+    <string name="reset_info_succ">更新信息成功</string>
+    <string name="reset_info_error">修改信息失败</string>
+    <string name="location_error">定位失败</string>
+    <string name="post_error">发布热点失败</string>
+    <string name="post_succ">发布热点成功</string>
+    <string name="post_hotspot">发布热点，赚取积分</string>
+    <string name="no_con">暂无设备连接</string>
+
+    <array name="wifi_tabs">
+        <item>连接</item>
+        <item>分享</item>
+    </array>
+
+    <array name="sex">
+        <item>男</item>
+        <item>女</item>
+    </array>
+
+    <string name="wifi_special">_wifishar</string>
+    <string name="connect_other_wifi">该热点为其他用户所分享，是否同意支付积分，享受Wifi？（按流量计费）</string>
+    <string name="point">积分</string>
+    <string name="point_center">积分中心</string>
+    <string name="point_op">充值/兑换</string>
+    <string name="help">反馈</string>
+    <string name="help_us">积分奖励</string>
+    <string name="about">关于</string>
+    <string name="get_help">获取帮助</string>
+    <string name="notification">通知消息</string>
+    <string name="no_notification">无消息</string>
+    <string name="user">用户</string>
+    <string name="other">其他</string>
+    <string name="query_hotspot_error">查询热点信息失败</string>
+    <string name="no_hotspot_info">未查到热点信息</string>
+
+</resources>
